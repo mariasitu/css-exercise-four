@@ -47,25 +47,25 @@ div h1 {
 
 .baku {
   background-image: url(../images/baku.jpg);
-  background-size: 100% 100%;
+  background-size: cover;
   opacity: 0.9;
 }
 
 .london{
   background-image: url(../images/london.png);
-  background-size: 100% 100%;
+  background-size: cover;
   opacity: 0.9;
 }
 
 .madrid {
   background-image: url(../images/madrid.jpg);
-  background-size: 100% 100%;
+  background-size: cover;
   opacity: 0.9;
 }
 
 .rome {
   background-image: url(../images/rome.jpg);
-  background-size: 100% 100%;
+  background-size: cover;
   opacity: 0.9;
 }
 /*desktop  */
@@ -81,3 +81,4 @@ div h1 {
     margin: 1%;
     width: 20%;
   }
+}
